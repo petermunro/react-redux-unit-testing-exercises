@@ -1,4 +1,4 @@
-# Use Enzyme to Perform a DOM Test
+# Use Enzyme to Perform a DOM Render
 
 ## Getting Started with Enzyme
 
